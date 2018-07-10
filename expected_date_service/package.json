@@ -1,6 +1,7 @@
 {
-  "name": "invoices_svc",
+  "name": "expected_date_service",
   "version": "1.0.0",
+  "description": "paid customer service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "request": "^2.87.0",
-    "request-promise": "^4.2.2"
-  },
-  "description": ""
+    "moment": "^2.22.2"
+  }
 }
