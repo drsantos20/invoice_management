@@ -1,0 +1,14 @@
+{
+  "name": "invoice_fe_service",
+  "version": "1.0.0",
+  "description": "view invoice app service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drsantos20",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
